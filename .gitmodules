@@ -1,0 +1,24 @@
+[submodule "Artificial-Inteigence"]
+	path = Artificial-Inteigence
+	url = ./Artificial-Inteigence
+[submodule "Blogger"]
+	path = Blogger
+	url = ./Blogger
+[submodule "Computer-Graphics"]
+	path = Computer-Graphics
+	url = ./Computer-Graphics
+[submodule "EMR"]
+	path = EMR
+	url = ./EMR
+[submodule "EvidencijaAviona"]
+	path = EvidencijaAviona
+	url = ./EvidencijaAviona
+[submodule "Gallery-website"]
+	path = Gallery-website
+	url = ./Gallery-website
+[submodule "GraphicalEditor"]
+	path = GraphicalEditor
+	url = ./GraphicalEditor
+[submodule "HCI_security-system"]
+	path = HCI_security-system
+	url = ./HCI_security-system
