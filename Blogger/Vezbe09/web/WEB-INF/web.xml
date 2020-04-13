@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+   
+   <servlet>
+      <servlet-name>LogoutController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.LogoutController</servlet-class>
+   </servlet>
+   
+   <servlet>
+      <servlet-name>RssController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.RssController</servlet-class>
+   </servlet>
+   
+
+   <servlet>
+      <servlet-name>PrepareEditProfileController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.PrepareEditProfileController</servlet-class>
+   </servlet>
+
+   <servlet>
+      <servlet-name>PrepareChangePasswordController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.PrepareChangePasswordController</servlet-class>
+   </servlet>
+   <servlet>
+      <servlet-name>ChangePasswordController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.ChangePasswordController</servlet-class>
+   </servlet>
+      <servlet>
+      <servlet-name>ViewCategoriesController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.ViewCategoriesController</servlet-class>
+   </servlet>
+
+   <servlet>
+      <servlet-name>PreparePostController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.PreparePostController</servlet-class>
+   </servlet>
+   <servlet>
+      <servlet-name>PostController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.PostController</servlet-class>
+   </servlet>
+   <servlet>
+      <servlet-name>PrepareAddCategoryController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.PrepareAddCategoryController</servlet-class>
+   </servlet>
+   <servlet>
+      <servlet-name>PrepareSubCategoriesController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.PrepareSubCategoriesController</servlet-class>
+   </servlet>
+   <servlet>
+      <servlet-name>AddCategoryController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.AddCategoryController</servlet-class>
+   </servlet>
+   <servlet>
+      <servlet-name>DeleteCategoryController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.DeleteCategoryController</servlet-class>
+   </servlet>
+     <servlet>
+      <servlet-name>DeleteCatSubController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.DeleteCatSubController</servlet-class>
+   </servlet>
+      <servlet>
+      <servlet-name>PrepareEditCategoryController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.PrepareEditCategoryController</servlet-class>
+   </servlet>
+   <servlet>
+      <servlet-name>EditCategoryController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.EditCategoryController</servlet-class>
+   </servlet>
+   
+   <servlet>
+      <servlet-name>EditProfileController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.EditProfileController</servlet-class>
+   </servlet>
+   
+   <servlet>
+      <servlet-name>LoginController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.LoginController</servlet-class>
+   </servlet>
+   
+    <servlet>
+      <servlet-name>RegistrationController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.RegistrationController</servlet-class>
+   </servlet>
+   
+   <servlet>
+      <servlet-name>PrepareBrowsePostsController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.PrepareBrowsePostsController</servlet-class>
+   </servlet>
+   <servlet>
+      <servlet-name>BrowsePostsController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.BrowsePostsController</servlet-class>
+   </servlet>
+   <servlet>
+      <servlet-name>ViewPostController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.ViewPostController</servlet-class>
+   </servlet>
+   <servlet>
+      <servlet-name>SearchPostsController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.SearchPostsController</servlet-class>
+   </servlet>
+   <servlet>
+      <servlet-name>PrepareCommentController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.PrepareCommentController</servlet-class>
+   </servlet>
+    <servlet>
+      <servlet-name>CommentController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.CommentController</servlet-class>
+   </servlet>
+    <servlet>
+      <servlet-name>PrepareHomeController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.PrepareHomeController</servlet-class>
+   </servlet>
+   <servlet>
+      <servlet-name>ShowPostsController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.ShowPostsController</servlet-class>
+   </servlet>
+   <servlet>
+      <servlet-name>BackController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.BackController</servlet-class>
+   </servlet>
+   <servlet>
+      <servlet-name>LanguageController</servlet-name>
+      <servlet-class>rs.ac.uns.ftn.informatika.mbs2.vezbe09.primer01.server.servlet.LanguageController</servlet-class>
+   </servlet>
+   <servlet-mapping>
+      <servlet-name>LogoutController</servlet-name>
+      <url-pattern>/LogoutController</url-pattern>
+   </servlet-mapping>
+   
+   <servlet-mapping>
+      <servlet-name>RssController</servlet-name>
+      <url-pattern>/RssController</url-pattern>
+   </servlet-mapping>
+   
+
+   
+      <servlet-mapping>
+      <servlet-name>PrepareEditProfileController</servlet-name>
+      <url-pattern>/PrepareEditProfileController</url-pattern>
+   </servlet-mapping>
+   
+   <servlet-mapping>
+      <servlet-name>PrepareChangePasswordController</servlet-name>
+      <url-pattern>/PrepareChangePasswordController</url-pattern>
+   </servlet-mapping>
+   
+   <servlet-mapping>
+      <servlet-name>ChangePasswordController</servlet-name>
+      <url-pattern>/ChangePasswordController</url-pattern>
+   </servlet-mapping>
+   
+    <servlet-mapping>
+      <servlet-name>ViewCategoriesController</servlet-name>
+      <url-pattern>/ViewCategoriesController</url-pattern>
+   </servlet-mapping>
+   
+
+   <servlet-mapping>
+      <servlet-name>PreparePostController</servlet-name>
+      <url-pattern>/PreparePostController</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+   <servlet-name>PostController</servlet-name>
+      <url-pattern>/PostController</url-pattern>
+   </servlet-mapping>
+      <servlet-mapping>
+      <servlet-name>PrepareAddCategoryController</servlet-name>
+      <url-pattern>/PrepareAddCategoryController</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>PrepareSubCategoriesController</servlet-name>
+      <url-pattern>/PrepareSubCategoriesController</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+   <servlet-name>AddCategoryController</servlet-name>
+      <url-pattern>/AddCategoryController</url-pattern>
+   </servlet-mapping>
+
+   <servlet-mapping>
+      <servlet-name>PrepareEditCategoryController</servlet-name>
+      <url-pattern>/PrepareEditCategoryController</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+   <servlet-name>EditCategoryController</servlet-name>
+      <url-pattern>/EditCategoryController</url-pattern>
+   </servlet-mapping>
+
+   
+      <servlet-mapping>
+      <servlet-name>EditProfileController</servlet-name>
+      <url-pattern>/EditProfileController</url-pattern>
+   </servlet-mapping>
+   
+   <servlet-mapping>
+      <servlet-name>LoginController</servlet-name>
+      <url-pattern>/LoginController</url-pattern>
+   </servlet-mapping>
+   
+      <servlet-mapping>
+      <servlet-name>RegistrationController</servlet-name>
+      <url-pattern>/RegistrationController</url-pattern>
+      </servlet-mapping>
+
+
+   <servlet-mapping>
+      <servlet-name>DeleteCategoryController</servlet-name>
+      <url-pattern>/DeleteCategoryController</url-pattern>
+   </servlet-mapping>
+  <servlet-mapping>
+      <servlet-name>DeleteCatSubController</servlet-name>
+      <url-pattern>/DeleteCatSubController</url-pattern>
+   </servlet-mapping>
+  <servlet-mapping>
+      <servlet-name>PrepareBrowsePostsController</servlet-name>
+      <url-pattern>/PrepareBrowsePostsController</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>BrowsePostsController</servlet-name>
+      <url-pattern>/BrowsePostsController</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>ViewPostController</servlet-name>
+      <url-pattern>/ViewPostController</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>SearchPostsController</servlet-name>
+      <url-pattern>/SearchPostsController</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>PrepareCommentController</servlet-name>
+      <url-pattern>/PrepareCommentController</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>CommentController</servlet-name>
+      <url-pattern>/CommentController</url-pattern>
+   </servlet-mapping>
+      <servlet-mapping>
+      <servlet-name>PrepareHomeController</servlet-name>
+      <url-pattern>/PrepareHomeController</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>ShowPostsController</servlet-name>
+      <url-pattern>/ShowPostsController</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>BackController</servlet-name>
+      <url-pattern>/BackController</url-pattern>
+   </servlet-mapping>
+    <servlet-mapping>
+      <servlet-name>LanguageController</servlet-name>
+      <url-pattern>/LanguageController</url-pattern>
+   </servlet-mapping>
+   <welcome-file-list>
+   		<welcome-file>PrepareHomeController</welcome-file>
+   </welcome-file-list>
+   <error-page>
+		<exception-type>
+			java.lang.Throwable
+		</exception-type>
+		<location>/error.jsp</location>
+   </error-page>
+   <error-page>
+   		<error-code>404</error-code>
+   		<location>/404.jsp</location>
+   </error-page> 
+
+</web-app>

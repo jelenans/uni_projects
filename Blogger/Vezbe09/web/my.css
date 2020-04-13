@@ -1,0 +1,38 @@
+h2{color: teal; text-align:left; font-family:Jokerman;}
+
+h3{color: red;}
+
+h4{color: red; font-style: italic;}
+
+h5{color: navy; font-weight: bold; font-style: italic;}
+
+body{
+background-color: #BCD7F1;
+}
+
+div.text h3{
+color:navy;
+}
+
+table th{
+   background-color: #CFCFCF;
+   text-align: left;
+}
+
+table td{
+   padding-top: 5px;
+   padding-bottom: 10px;
+   background-color: teal;
+   text-align: left;
+   font-size: 14px;
+   vertical-align: top;
+   line-height: 18px;
+}
+
+input[type="submit"]{
+	background-color: buttonface;
+}
+
+div.ta textarea{
+	background-color: #CFCFCF;
+}
