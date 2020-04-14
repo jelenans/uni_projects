@@ -1,0 +1,11 @@
+C:\Users\Sladza\Downloads\PROJ_DRAG_SLADJINO (2)\PROJ_DRAG_SLADJINO\ORI_PROJEKAT_6.6\ORI_PROJEKAT_6.6\kuku\kuku\bin\Release\kuku.exe
+C:\Users\Sladza\Downloads\PROJ_DRAG_SLADJINO (2)\PROJ_DRAG_SLADJINO\ORI_PROJEKAT_6.6\ORI_PROJEKAT_6.6\kuku\kuku\bin\Release\kuku.pdb
+C:\Users\Sladza\Downloads\PROJ_DRAG_SLADJINO (2)\PROJ_DRAG_SLADJINO\ORI_PROJEKAT_6.6\ORI_PROJEKAT_6.6\kuku\kuku\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Sladza\Downloads\PROJ_DRAG_SLADJINO (2)\PROJ_DRAG_SLADJINO\ORI_PROJEKAT_6.6\ORI_PROJEKAT_6.6\kuku\kuku\obj\x86\Release\kuku.Main.resources
+C:\Users\Sladza\Downloads\PROJ_DRAG_SLADJINO (2)\PROJ_DRAG_SLADJINO\ORI_PROJEKAT_6.6\ORI_PROJEKAT_6.6\kuku\kuku\obj\x86\Release\kuku.GradoviPanel.resources
+C:\Users\Sladza\Downloads\PROJ_DRAG_SLADJINO (2)\PROJ_DRAG_SLADJINO\ORI_PROJEKAT_6.6\ORI_PROJEKAT_6.6\kuku\kuku\obj\x86\Release\kuku.Properties.Resources.resources
+C:\Users\Sladza\Downloads\PROJ_DRAG_SLADJINO (2)\PROJ_DRAG_SLADJINO\ORI_PROJEKAT_6.6\ORI_PROJEKAT_6.6\kuku\kuku\obj\x86\Release\kuku.UnosRazdaljine.resources
+C:\Users\Sladza\Downloads\PROJ_DRAG_SLADJINO (2)\PROJ_DRAG_SLADJINO\ORI_PROJEKAT_6.6\ORI_PROJEKAT_6.6\kuku\kuku\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Sladza\Downloads\PROJ_DRAG_SLADJINO (2)\PROJ_DRAG_SLADJINO\ORI_PROJEKAT_6.6\ORI_PROJEKAT_6.6\kuku\kuku\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Sladza\Downloads\PROJ_DRAG_SLADJINO (2)\PROJ_DRAG_SLADJINO\ORI_PROJEKAT_6.6\ORI_PROJEKAT_6.6\kuku\kuku\obj\x86\Release\kuku.exe
+C:\Users\Sladza\Downloads\PROJ_DRAG_SLADJINO (2)\PROJ_DRAG_SLADJINO\ORI_PROJEKAT_6.6\ORI_PROJEKAT_6.6\kuku\kuku\obj\x86\Release\kuku.pdb
