@@ -1,0 +1,129 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Precision Helper 2.0.1">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+    <OBJECT type="text/site properties">
+      <param name="FrameName" value="right">
+      <param name="Window Styles" value="0x00800025">
+      <param name="comment" value="title:Untitled">
+      <param name="comment" value="base:Prikaz grupa.htm">
+    </OBJECT>
+    <UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Prikazi">
+          <param name="Local" value="Prikaz klijenata.htm">
+        </OBJECT>
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Prikaz glavnog dijaloga">
+              <param name="Local" value="Prikaz grupa.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Prikaz grupa zaposlenih">
+              <param name="Local" value="nset0p.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Prikaz klijenata">
+              <param name="Local" value="Prikaz klijenata.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Rad sa klijentima">
+        </OBJECT>
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Dodavanje kllijenta">
+              <param name="Local" value="Dodavanje kllijenta.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Izmena klijenta">
+              <param name="Local" value="Izmena klijenta.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Uklanjanje klijenta">
+              <param name="Local" value="Uklanjanje klijenta.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Rad sa zaposlenima">
+        </OBJECT>
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Dodavanje zaposlenog">
+              <param name="Local" value="Dodavanje zaposlenog.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Izmena zaposlenog">
+              <param name="Local" value="Izmena zaposlenog.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Uklanjanje zaposlenog">
+              <param name="Local" value="Uklanjanje zaposlenog.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Izmena stanja zaposlenog">
+              <param name="Local" value="Slanje na odmor.htm">
+            </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Angažovanje zaposlenog">
+                  <param name="Local" value="Angažovanje zaposlenog.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Slanje na trening">
+                  <param name="Local" value="Slanje na trening.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Slanje na odmor">
+                  <param name="Local" value="a.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Oslobadjanje zaposlenog">
+                  <param name="Local" value="Oslobadjanje zaposlenog.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            </UL>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Pregledi">
+        </OBJECT>
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Pregled klijenata">
+              <param name="Local" value="Pregled klijenata.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Pregled zaposlenih">
+              <param name="Local" value="Pregled zaposlenih.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Pregled angažovanja">
+              <param name="Local" value="Pregled angažovanja.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Precice">
+          <param name="Local" value="Precice.htm">
+          <param name="ImageNumber" value="11">
+        </OBJECT>
+    </UL>
+</BODY>
+</HTML>

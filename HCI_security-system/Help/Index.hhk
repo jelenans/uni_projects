@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Precision Helper 2.0.1">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+    <OBJECT type="text/site properties">
+      <param name="FrameName" value="right">
+    </OBJECT>
+    <UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="dodavanje klijenta">
+          <param name="Local" value="Dodavanje kllijenta.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="izmena klijenta">
+          <param name="Local" value="Izmena klijenta.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="uklanjanje klijenta">
+          <param name="Local" value="Uklanjanje klijenta.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Izmena zaposlenog">
+          <param name="Local" value="Izmena zaposlenog.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="dodavanje zaposlenog">
+          <param name="Local" value="Dodavanje zaposlenog.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="uklanjanje zaposlenog">
+          <param name="Local" value="Uklanjanje zaposlenog.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="pregled klijenata">
+          <param name="Local" value="Pregled klijenata.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="pregled zaposlenih">
+          <param name="Local" value="Pregled zaposlenih.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="pregled angazovanja">
+          <param name="Local" value="Pregled angažovanja.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="izmena stanja">
+          <param name="Local" value="Na zadatku.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="izmena stanja">
+          <param name="Local" value="Slanje na odmor.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="izmena stanja">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="izmena stanja">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="prikaz">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="prikaz">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="prikaz">
+        </OBJECT>
+    </UL>
+</BODY>
+</HTML>
