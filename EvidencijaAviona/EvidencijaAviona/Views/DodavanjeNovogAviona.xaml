@@ -1,0 +1,182 @@
+﻿<Window x:Class="EvidencijaAviona.Views.DodavanjeNovogAviona"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        Title="Dodavanje aviona" Height="353" Width="483"
+        WindowStartupLocation="CenterScreen" >
+    <Grid>
+        <Grid Margin="10,10,-32,-49"></Grid>
+        <Grid Height="417" HorizontalAlignment="Left" Margin="0,-9,0,0" Name="grid1" VerticalAlignment="Top" Width="534">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="120*" />
+                <ColumnDefinition Width="398*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50*" />
+                <RowDefinition Height="30*" />
+                <RowDefinition Height="30*" />
+                <RowDefinition Height="30*" />
+                <RowDefinition Height="30*" />
+                <RowDefinition Height="30*" />
+                <RowDefinition Height="30*" />
+                <RowDefinition Height="30*" />
+                <RowDefinition Height="64*" />
+                <RowDefinition Height="104*" />
+            </Grid.RowDefinitions>
+            <Label Content="  Oznaka:" VerticalContentAlignment="Bottom" HorizontalAlignment="Stretch" Margin="0,27,33,24" Grid.RowSpan="2" />
+            <Label Content="  Tip:" Margin="1,48,32,27" VerticalContentAlignment="Bottom" Grid.RowSpan="3" />
+            <Label Content="  Datum pregleda:" Grid.Row="2" Margin="0,2,20,29" VerticalContentAlignment="Bottom" Grid.RowSpan="2" />
+            <Label Content="  Težina:" Grid.Row="3" Margin="1,0,31,29" VerticalContentAlignment="Bottom" Grid.RowSpan="2" />
+            <Label Content="  Teretni kapacitet:" Grid.Row="4" VerticalContentAlignment="Bottom" Margin="0,1,0,0" />
+            <Label Content="  Max broj putnika:" Grid.Row="5" Margin="0,1,6,0" VerticalContentAlignment="Bottom" />
+            <Label Content="  Max brzina:" Grid.Row="6" Margin="1,0,32,0" VerticalContentAlignment="Bottom" />
+            <Label Content="  Status:" Grid.Row="7" Margin="0,0,46,61" VerticalContentAlignment="Bottom" Grid.RowSpan="2" />
+            <Label Content="  Broj članova posade:" Grid.Row="7" VerticalContentAlignment="Bottom" Margin="0,23,396,34" Grid.ColumnSpan="2" Grid.RowSpan="2" />
+            <TextBox Height="24" 
+                     HorizontalAlignment="Left" 
+                     Margin="0,0,0,1"
+                     Name="tbOzn1" 
+                     VerticalAlignment="Bottom"
+                     Width="50" Grid.Column="1">
+                <TextBox.Text>
+                    <Binding Path="TrenutniAvion.Oznaka1">
+                        
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+            <TextBox Grid.Row="3" 
+                Height="24"
+                     HorizontalAlignment="Left"
+                Margin="0,0,0,29" 
+                Name="tbTezina" 
+                VerticalAlignment="Bottom"
+                  
+                Width="120" Grid.Column="1" Grid.RowSpan="2">
+                <TextBox.Text>
+                    <Binding Path="TrenutniAvion.Tezina" >
+
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+            <TextBox Grid.Row="4" 
+                     Height="24"
+                     HorizontalAlignment="Left" Name="tbKapac"
+                     VerticalAlignment="Bottom"
+                     VerticalContentAlignment="Center" 
+                     Width="120" Grid.Column="1">
+                <TextBox.Text>
+                    <Binding Path="TrenutniAvion.TeretKapac" >
+
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+            <TextBox Grid.Row="5" 
+                     Height="24"
+                     HorizontalAlignment="Left" 
+                     Margin="0,6,0,28" 
+                     Name="tbMaxBrPutnika" 
+                     VerticalAlignment="Bottom"
+                     VerticalContentAlignment="Center" 
+                     Width="120" Grid.Column="1" Grid.RowSpan="2">
+                <TextBox.Text>
+                    <Binding Path="TrenutniAvion.MaxBrPutnika">
+
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+            <TextBox Grid.Row="6" 
+                     Height="24"
+                     HorizontalAlignment="Left" 
+                     Margin="0,7,0,0"
+                     Name="tbMaxBrz" 
+                     VerticalAlignment="Bottom"
+                     Width="120" Grid.Column="1">
+                <TextBox.Text>
+                    <Binding Path="TrenutniAvion.MaxBrzina">
+
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+            <TextBox Grid.Row="8" 
+                     Height="24"
+                     HorizontalAlignment="Left" 
+                     Margin="2,0,0,35"
+                     Name="tbBrCl" 
+                     VerticalAlignment="Bottom"
+                     Width="40" Grid.Column="1">
+                <TextBox.Text>
+                    <Binding Path="TrenutniAvion.BrClanovaPosade">
+
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+            <CheckBox Content="Spreman za let" 
+                      Grid.Column="1" 
+                      Grid.Row="7"
+                      Height="16" 
+                      HorizontalAlignment="Left" 
+                      Margin="1,7,0,0" 
+                      Name="cbStatus"
+                      VerticalAlignment="Bottom">
+                <CheckBox.IsChecked>
+                    <Binding Path="TrenutniAvion.SpremanZaLet">
+
+                    </Binding>
+
+                </CheckBox.IsChecked>
+            </CheckBox>
+            <DatePicker Grid.Row="2" 
+                        Height="24"
+                        HorizontalAlignment="Left"
+                        Margin="1,3,0,0" 
+                        Name="dtpDat"
+                        VerticalAlignment="Bottom" 
+                        Width="120" Grid.Column="1"
+                     SelectedDate="{Binding Path=TrenutniAvion.DatTehPregled}"/>
+            
+            <ComboBox Grid.Row="1"
+                      Height="23" 
+                      HorizontalAlignment="Left"
+                      Margin="1,4,0,0"
+                      Name="cbTip" 
+                      VerticalAlignment="Bottom"
+                      Width="120" Grid.Column="1">
+                <ComboBox.Text>
+                    <Binding Path="TrenutniAvion.TipAviona">
+        
+                    </Binding>
+                    
+                    </ComboBox.Text>
+                <ComboBoxItem Content="teretni" />
+                <ComboBoxItem Content="putnički" />
+                <ComboBoxItem Content="sportski" />
+                <ComboBoxItem Content="privatni" />
+            </ComboBox>
+            <Border BorderBrush="Silver" BorderThickness="1" Name="border1" Grid.Column="1" Margin="145,26,81,4" Grid.RowSpan="6">
+                <Image Height="162" Name="img" Stretch="Fill" Width="179">
+                    <Image.Source>
+                        <Binding Mode="TwoWay" Path="TrenutniAvion.Slika" UpdateSourceTrigger="PropertyChanged"></Binding>
+                    </Image.Source>
+                </Image>
+            </Border>
+            <Button Click="button1_Click" Content="Izabrati..." Grid.Column="1" Grid.Row="6" Height="23" HorizontalAlignment="Right" Margin="0,3,81,0" Name="button1" VerticalAlignment="Top" Width="75" />
+            <Label Content="-" Grid.Column="1" Height="23" Margin="0,24,330,0" Name="label1" VerticalAlignment="Top" HorizontalAlignment="Right" Width="30" />
+            <TextBox Grid.Column="1" 
+                     Height="23" Margin="0,25,290,2" 
+                     Name="textBox1"
+                     VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="54">
+                <TextBox.Text>
+                    <Binding Path="TrenutniAvion.Oznaka2" >
+
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+            <StackPanel Name="stackPanel1" DockPanel.Dock="Bottom" HorizontalAlignment="Stretch" VerticalAlignment="Bottom" FlowDirection="RightToLeft" Orientation="Horizontal" Margin="0,0,77,100" Grid.ColumnSpan="2" Grid.Row="8" Grid.RowSpan="2">
+                <Button IsCancel="True" Content="Odustanak" Height="23" Name="button2" Width="75" Margin="4" />
+                <Button IsDefault="True" Content="Potvrda" Command="{Binding Path=DodavanjeCommand}" Width="75" Margin="4" IsEnabled="True" Click="Button_Click" />
+            </StackPanel>
+  
+       
+        </Grid>
+    </Grid>
+</Window>

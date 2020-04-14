@@ -1,0 +1,205 @@
+﻿<Window x:Class="EvidencijaAviona.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Evidencija aviona" 
+        Height="650" 
+        Width="825"
+        MinHeight="560"
+        MinWidth="660"
+        WindowStartupLocation="CenterScreen" 
+        WindowStyle="ThreeDBorderWindow" 
+        >
+    <DockPanel>
+        <Border BorderThickness="3" Name="border1"
+                BorderBrush="LightGray" 
+                Background="Gray" 
+                DockPanel.Dock="Top"
+                Padding="8" 
+                CornerRadius="6" 
+                Margin="0,0,0,8">
+            <TextBlock Name="textBlock1" 
+                       Text="Evidencija aviona" FontSize="14" TextWrapping="Wrap">
+                <TextBlock.Background><SolidColorBrush /></TextBlock.Background></TextBlock>
+        </Border>
+        <StackPanel 
+            Name="stackPanel1" 
+            DockPanel.Dock="Bottom" HorizontalAlignment="Stretch" VerticalAlignment="Bottom" FlowDirection="RightToLeft" Orientation="Horizontal">
+            <Button Content="Brisanje" Height="23" Name="button3" Width="75" Margin="4"  Command="{Binding Path=Brisanje}"/>
+            <Button Content="Izmena" Height="23" Name="button2" Width="75" Margin="4" Command="{Binding Path=Izmena}" CommandParameter="{Binding Path=IzmenaModel}" />
+            <Button Content="Dodavanje" Height="23" Name="button1" Width="75" Margin="4" Command="{Binding Path=Dodavanje}" CommandParameter="{Binding Path=DodavanjeModel}" />
+              </StackPanel>
+        <Expander DockPanel.Dock="Right"
+                  ExpandDirection="Left"
+                  IsExpanded= "false"
+                  BorderThickness="0 1 1 1"
+                  BorderBrush="Gray"
+                  Margin="0 2 0 0"
+                  Padding="2"
+                  Width="252">
+            <Expander.Header>
+                <TextBlock Text="Podaci o avionu"
+                           FontSize="14"
+                           FontWeight="Bold">
+                    <TextBlock.LayoutTransform>
+                        <RotateTransform Angle="90" />
+                    </TextBlock.LayoutTransform>
+                </TextBlock>
+            </Expander.Header>
+            <StackPanel Margin="2" Width="180">
+                <Grid>
+                    <Border Grid.Row="0"
+                        Margin="2 2 0 0"
+                        CornerRadius="4"
+                        Background="Gray"
+                        Opacity=".5" />
+                    <Border BorderThickness="4"
+                        CornerRadius="4"
+                        Background="White"
+                        Margin="-16,0,-21,2"
+                        Padding="3">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="100" />
+                                <ColumnDefinition Width="64*" />
+                            </Grid.ColumnDefinitions>
+                            <Image Name="SlikaAviona"                          
+                               Width="64" 
+                               Height="64" 
+                               Grid.Column="1" 
+                                   HorizontalAlignment="Right">
+                                <Image.Source>
+
+                                    <Binding Mode="TwoWay" Path="Selected.Slika" UpdateSourceTrigger="PropertyChanged" >
+                                    </Binding>
+
+                                </Image.Source>
+                            </Image>
+                            <TextBlock Text="Oznaka : "
+                                   FontSize="20"
+                                   FontWeight="Bold" 
+                                   Margin="0,0,22,51" />
+                            <TextBlock Name="tbOznaka" FontWeight="Bold"
+                                   FontSize="15"
+                                   Padding="6 6 6 0"
+                                   Text="{Binding Path=Selected.Kljuc}" Margin="0,19,0,0" Height="45" />
+
+                        </Grid>
+                    </Border>
+                </Grid>
+                <Grid>
+                    <Border Grid.Row="1"
+                        Margin="2 2 0 0"
+                        CornerRadius="4"
+                        Background="Gray"
+                        Opacity=".5" />
+                    <Border BorderThickness="2"
+                        CornerRadius="4"
+                        Background="White"
+                        Margin="-16,0,-21,-179"
+                        Padding="3" Height="303">
+                        <Grid Width="230">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="112" />
+                                <ColumnDefinition Width="118*" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="40*" />
+                                <RowDefinition Height="40*" />
+                                <RowDefinition Height="40*" />
+                                <RowDefinition Height="40*" />
+                                <RowDefinition Height="40*" />
+                                <RowDefinition Height="40*" />
+                                <RowDefinition Height="40*" />
+                                <RowDefinition Height="40*" />
+                            </Grid.RowDefinitions>
+                            <TextBlock Text="Težina praznog: " Margin="0,2,0,-1"/>
+                            <TextBlock Name="tbTez" Grid.Column="1"
+                                   Text="{Binding Path=Selected.Tezina}" Margin="0,3,0,-1"/>
+                            <TextBlock Grid.Row="1" Text="Datum pregleda: " Height="36" VerticalAlignment="Top" Margin="0,1,0,0" />
+
+                            <TextBlock Name="tbDat"
+                                   Grid.Row="1"
+                                   Grid.Column="1"
+                                   Text="{Binding Path=Selected.DatTehPregled}" />
+                            <TextBlock Grid.Row="2"
+                                   Text="Spreman za let: " />
+                            <TextBlock Name="tbStatus"
+                                   Grid.Row="2"
+                                   Grid.Column="1"
+                                   Text="{Binding Path=Selected.SpremanZaLet}"/>
+                            <TextBlock Grid.Row="3"
+                                   Text="Tip: " />
+                            <TextBlock Name="tbTip"
+                                   Grid.Row="3"
+                                   Grid.Column="1"
+                                   Text="{Binding Path=Selected.TipAviona}"/>
+                            <TextBlock Grid.Row="4"
+                                   Text="Teretni kapacitet: " />
+                            <TextBlock Name="tbKapac"
+                                   Grid.Row="4"
+                                   Grid.Column="1"
+                                   Text="{Binding Path=Selected.TeretKapac}"/>
+                            <TextBlock Grid.Row="5"
+                                   Text="Max broj putnika: " />
+                            <TextBlock Name="tbMaxBrPut"
+                                   Grid.Row="5"
+                                   Grid.Column="1"
+                                   Text="{Binding Path=Selected.MaxBrPutnika}"/>
+                            <TextBlock Grid.Row="6"
+                                   Text="Max brzina: " />
+                            <TextBlock Name="tbMaxBrz" 
+                                        Grid.Row="6"
+                                   Grid.Column="1"
+                                       Text="{Binding Path=Selected.MaxBrzina}" />
+                            <TextBlock Grid.Row="7"
+                                   Text="Broj članova posade: " Margin="0,1,0,0" />
+                            <TextBlock Name="tbClPos" 
+                                        Grid.Row="8"
+                                   Grid.Column="1"
+                                       Text="{Binding Path=Selected.BrClanovaPosade}" />
+                        </Grid>
+                    </Border>
+                </Grid>
+               
+            </StackPanel>
+        </Expander>
+        <ScrollViewer
+            DockPanel.Dock="Left" 
+            HorizontalScrollBarVisibility="Auto" 
+            VerticalScrollBarVisibility="Auto">
+            <ListView Margin="5" 
+                      x:Name="lvListaRadnika" SelectionMode="Single" ItemsSource="{Binding Path=Repository.Avioni}" SelectedItem="{Binding Path=Selected}">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="*Oznaka" 
+                                        Width="48"       
+                                        
+                                        DisplayMemberBinding="{Binding Path=Oznaka1}"/>
+                        <GridViewColumn Header="aviona*" 
+                                        Width="43"
+                                        DisplayMemberBinding="{Binding Path=Oznaka2}"/>
+                        <GridViewColumn Header="Tip" 
+                                        Width="70"
+                                        DisplayMemberBinding="{Binding Path=TipAviona}"/>
+                        <GridViewColumn Header="Težina"
+                                        Width="50"
+                                        DisplayMemberBinding="{Binding Path=Tezina}"/>
+                        <GridViewColumn Header=" Teretni kapacitet" 
+                                        Width="100"
+                                        DisplayMemberBinding="{Binding Path=TeretKapac}"/>
+                        <GridViewColumn Header="MaxPutnika" 
+                                        Width="70"
+                                        DisplayMemberBinding="{Binding Path=MaxBrPutnika}"/>
+                        <GridViewColumn Header="MaxBrzina" 
+                                        Width="70"
+                                        DisplayMemberBinding="{Binding Path=MaxBrzina}"/>
+                        <GridViewColumn Header="Spreman za let" 
+                                        Width="90"
+                                        DisplayMemberBinding="{Binding Path=SpremanZaLet}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </ScrollViewer>
+    </DockPanel>
+
+</Window>

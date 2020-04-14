@@ -1,0 +1,126 @@
+c:\users\jelena\documents\visual studio 2010\Projects\EvidencijaAviona\EvidencijaAviona\bin\Debug\EvidencijaAviona.exe
+c:\users\jelena\documents\visual studio 2010\Projects\EvidencijaAviona\EvidencijaAviona\bin\Debug\EvidencijaAviona.pdb
+c:\users\jelena\documents\visual studio 2010\Projects\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jelena\documents\visual studio 2010\Projects\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\App.g.cs
+c:\users\jelena\documents\visual studio 2010\Projects\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona_MarkupCompile.cache
+c:\users\jelena\documents\visual studio 2010\Projects\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.g.resources
+c:\users\jelena\documents\visual studio 2010\Projects\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.Properties.Resources.resources
+c:\users\jelena\documents\visual studio 2010\Projects\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jelena\documents\visual studio 2010\Projects\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jelena\documents\visual studio 2010\Projects\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.exe
+c:\users\jelena\documents\visual studio 2010\Projects\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.pdb
+c:\users\jelena\documents\visual studio 2010\Projects\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\MainWindow.baml
+c:\users\jelena\documents\visual studio 2010\Projects\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\MainWindow.g.cs
+c:\users\jelena\documents\visual studio 2010\Projects\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\Dodavanje.baml
+c:\users\jelena\documents\visual studio 2010\Projects\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\Dodavanje.g.cs
+C:\Users\jelena\Desktop\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.exe
+C:\Users\jelena\Desktop\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.pdb
+C:\Users\jelena\Desktop\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jelena\Desktop\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\DodavanjeAviona.baml
+C:\Users\jelena\Desktop\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\IzmenaAviona.baml
+C:\Users\jelena\Desktop\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\MainWindow.baml
+C:\Users\jelena\Desktop\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\DodavanjeAviona.g.cs
+C:\Users\jelena\Desktop\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\IzmenaAviona.g.cs
+C:\Users\jelena\Desktop\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\MainWindow.g.cs
+C:\Users\jelena\Desktop\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\App.g.cs
+C:\Users\jelena\Desktop\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona_MarkupCompile.cache
+C:\Users\jelena\Desktop\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.g.resources
+C:\Users\jelena\Desktop\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.Properties.Resources.resources
+C:\Users\jelena\Desktop\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jelena\Desktop\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jelena\Desktop\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\bin\Debug\EvidencijaAviona.exe
+C:\Users\jelena\Desktop\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\bin\Debug\EvidencijaAviona.pdb
+S:\6.semestar\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.exe
+S:\6.semestar\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.pdb
+I:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Stilovi.baml
+I:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\DodavanjeNovogAviona.baml
+I:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\IzmenaAviona.baml
+I:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\MainWindow.baml
+I:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\DodavanjeNovogAviona.g.cs
+I:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\IzmenaAviona.g.cs
+I:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\MainWindow.g.cs
+I:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\App.g.cs
+I:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona_MarkupCompile.cache
+I:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.g.resources
+I:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.Properties.Resources.resources
+I:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\bin\Debug\EvidencijaAviona.exe
+I:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\bin\Debug\EvidencijaAviona.pdb
+I:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.exe
+I:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.pdb
+C:\Users\jelena\Desktop\EvidencijaAviona\EvidencijaAviona\bin\Debug\EvidencijaAviona.exe
+C:\Users\jelena\Desktop\EvidencijaAviona\EvidencijaAviona\bin\Debug\EvidencijaAviona.pdb
+C:\Users\jelena\Desktop\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jelena\Desktop\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Stilovi.baml
+C:\Users\jelena\Desktop\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\DodavanjeNovogAviona.baml
+C:\Users\jelena\Desktop\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\IzmenaAviona.baml
+C:\Users\jelena\Desktop\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\MainWindow.baml
+C:\Users\jelena\Desktop\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\DodavanjeNovogAviona.g.cs
+C:\Users\jelena\Desktop\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\IzmenaAviona.g.cs
+C:\Users\jelena\Desktop\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\MainWindow.g.cs
+C:\Users\jelena\Desktop\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\App.g.cs
+C:\Users\jelena\Desktop\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona_MarkupCompile.cache
+C:\Users\jelena\Desktop\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.g.resources
+C:\Users\jelena\Desktop\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.Properties.Resources.resources
+C:\Users\jelena\Desktop\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jelena\Desktop\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jelena\Desktop\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.exe
+C:\Users\jelena\Desktop\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.pdb
+C:\Users\jelena\Desktop\Evid_SLIKA\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.exe
+C:\Users\jelena\Desktop\Evid_SLIKA\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.pdb
+C:\Users\jelena\Desktop\Evid_SLIKA\EvidencijaAviona\EvidencijaAviona\bin\Debug\EvidencijaAviona.exe
+C:\Users\jelena\Desktop\Evid_SLIKA\EvidencijaAviona\EvidencijaAviona\bin\Debug\EvidencijaAviona.pdb
+C:\Users\jelena\Desktop\Evid_SLIKA\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jelena\Desktop\Evid_SLIKA\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Stilovi.baml
+C:\Users\jelena\Desktop\Evid_SLIKA\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\DodavanjeNovogAviona.baml
+C:\Users\jelena\Desktop\Evid_SLIKA\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\IzmenaAviona.baml
+C:\Users\jelena\Desktop\Evid_SLIKA\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\MainWindow.baml
+C:\Users\jelena\Desktop\Evid_SLIKA\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\DodavanjeNovogAviona.g.cs
+C:\Users\jelena\Desktop\Evid_SLIKA\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\IzmenaAviona.g.cs
+C:\Users\jelena\Desktop\Evid_SLIKA\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\MainWindow.g.cs
+C:\Users\jelena\Desktop\Evid_SLIKA\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\App.g.cs
+C:\Users\jelena\Desktop\Evid_SLIKA\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona_MarkupCompile.cache
+C:\Users\jelena\Desktop\Evid_SLIKA\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.g.resources
+C:\Users\jelena\Desktop\Evid_SLIKA\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.Properties.Resources.resources
+C:\Users\jelena\Desktop\Evid_SLIKA\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jelena\Desktop\Evid_SLIKA\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.exe
+J:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.pdb
+G:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.exe
+G:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.pdb
+G:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\bin\Debug\EvidencijaAviona.exe
+G:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\bin\Debug\EvidencijaAviona.pdb
+G:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Stilovi.baml
+G:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\DodavanjeNovogAviona.baml
+G:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\IzmenaAviona.baml
+G:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\MainWindow.baml
+G:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\DodavanjeNovogAviona.g.cs
+G:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\IzmenaAviona.g.cs
+G:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\MainWindow.g.cs
+G:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\App.g.cs
+G:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona_MarkupCompile.cache
+G:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.g.resources
+G:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.Properties.Resources.resources
+G:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\6.SEMESTAR\HCI\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.exe
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.pdb
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\OK----------------------EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.exe
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\OK----------------------EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.pdb
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\OK----------------------EvidencijaAviona\EvidencijaAviona\bin\Debug\EvidencijaAviona.exe
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\OK----------------------EvidencijaAviona\EvidencijaAviona\bin\Debug\EvidencijaAviona.pdb
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\OK----------------------EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Stilovi.baml
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\OK----------------------EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\DodavanjeNovogAviona.baml
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\OK----------------------EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\IzmenaAviona.baml
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\OK----------------------EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\MainWindow.baml
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\OK----------------------EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\DodavanjeNovogAviona.g.cs
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\OK----------------------EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\IzmenaAviona.g.cs
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\OK----------------------EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\Views\MainWindow.g.cs
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\OK----------------------EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\App.g.cs
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\OK----------------------EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona_MarkupCompile.cache
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\OK----------------------EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.g.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\OK----------------------EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.Properties.Resources.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\OK----------------------EvidencijaAviona\EvidencijaAviona\obj\x86\Debug\EvidencijaAviona.csproj.GenerateResource.Cache
