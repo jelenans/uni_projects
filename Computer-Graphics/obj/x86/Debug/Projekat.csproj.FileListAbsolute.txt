@@ -1,0 +1,27 @@
+H:\7.SEMESTAR\Racunarska_grafika\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\7.SEMESTAR\Racunarska_grafika\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\obj\x86\Debug\RacunarskaGrafika.Vezbe.ProjectForm.resources
+H:\7.SEMESTAR\Racunarska_grafika\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\obj\x86\Debug\Projekat.Properties.Resources.resources
+H:\7.SEMESTAR\Racunarska_grafika\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\7.SEMESTAR\Racunarska_grafika\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\7.SEMESTAR\Racunarska_grafika\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\bin\Debug\Predmetni projekat.exe
+H:\7.SEMESTAR\Racunarska_grafika\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\bin\Debug\Predmetni projekat.pdb
+H:\7.SEMESTAR\Racunarska_grafika\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\obj\x86\Debug\Predmetni projekat.exe
+H:\7.SEMESTAR\Racunarska_grafika\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\obj\x86\Debug\Predmetni projekat.pdb
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\obj\x86\Debug\Predmetni projekat.exe
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\obj\x86\Debug\Predmetni projekat.pdb
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\obj\x86\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\obj\x86\Debug\RacunarskaGrafika.Vezbe.ProjectForm.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\obj\x86\Debug\Projekat.Properties.Resources.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\obj\x86\Debug\Projekat.csproj.GenerateResource.Cache
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\obj\x86\Debug\Predmetni projekat.exe
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\obj\x86\Debug\Predmetni projekat.pdb
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\bin\Debug\Predmetni projekat.exe
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\bin\Debug\Predmetni projekat.pdb
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\obj\x86\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\obj\x86\Debug\RacunarskaGrafika.Vezbe.ProjectForm.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\obj\x86\Debug\Projekat.Properties.Resources.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\PROJEKAT_GRAFIKA\RG2012PPF2S6E13080\obj\x86\Debug\Projekat.csproj.GenerateResource.Cache
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\RG2012PPF2S6E13080\obj\x86\Debug\Predmetni projekat.exe
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\RG2012PPF2S6E13080\obj\x86\Debug\Predmetni projekat.pdb
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\OK---------------------Computer Graphics\obj\x86\Debug\Predmetni projekat.exe
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\OK---------------------Computer Graphics\obj\x86\Debug\Predmetni projekat.pdb
