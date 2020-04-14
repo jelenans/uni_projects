@@ -1,0 +1,23 @@
+body{background-image:url('gal.jpg') ;
+background-repeat: no-repeat; 
+background-size: 100%;
+}
+p{color: yellow; text-align:center; }
+span.imeGalerije{font-family:Jokerman;font-size:xx-large; font-weight:500; font-style:italic;
+ }
+span.dobrodosli{font-family:Ravie;font-size:x-large; font-weight:bold; font-stretch:extra-expanded;}
+img.slikaGalerije{float:right ;border:black solid 1px;}
+
+div.lista{
+text-align:center;
+}
+
+div.lista a{
+color:yellow;
+}
+
+div.podaci{
+	text-align:left;
+	font-family:fantasy;
+	color:orange;
+}

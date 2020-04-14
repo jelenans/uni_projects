@@ -1,0 +1,13 @@
+body{background-image:url('gal.jpg') ;
+background-repeat: no-repeat; 
+background-size: 100%;
+}
+h2{color: yellow; text-align:left; font-family:Jokerman;}
+
+h3{color: purple;}
+
+p{color: yellow; }
+
+div.lista a{
+color:yellow;
+}
